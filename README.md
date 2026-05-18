@@ -166,6 +166,4 @@ Welcome to Flight Go!
 
 
 
-# ⭐ GitHub
 
-If you like this project, give it a ⭐ on GitHub.
